@@ -1,0 +1,196 @@
+{
+  "players": [
+      { "id": "t_brady", "team": "NE", "first": "Tom", "last": "Brady", "number": 12 },
+      { "id": "r_gronkowski", "team": "NE", "first": "Ron", "last": "Gronkowski", "number": 87 },
+      { "id": "j_edelman", "team": "NE", "first": "J", "last": "Edelman", "number": 11 },
+      { "id": "j_white", "team": "NE", "first": "J", "last": "White", "number": 28 },
+      { "id": "r_allen", "team": "NE", "first": "R", "last": "Allen", "number": 6 },
+      { "id": "l_ryan", "team": "NE", "first": "L", "last": "Ryan", "number": 26},
+      { "id": "p_manning", "team": "DEN", "first": "Peyton", "last": "Manning", "number": 18 },
+      { "id": "e_sanders", "team": "DEN", "first": "E", "last": "Sanders", "number": 18 },
+      { "id": "r_hillman", "team": "DEN", "first": "R", "last": "Hillman", "number": 23 },
+      { "id": "j_norwood", "team": "DEN", "first": "J", "last": "Norwood", "number": 11 },
+      { "id": "o_daniels", "team": "DEN", "first": "O", "last": "Daniels", "number": 81 }
+   ],
+  "plays": [
+    {
+      "quarter": 1,
+      "time": "15:00",
+      "down": 1,
+      "ball_on": { "team": "NE", "yard_line": 20 },
+      "stats": [
+        { "id": "t_brady", "passing_yards": 5 },
+        { "id": "t_brady", "passing_attempts": 1 },
+        { "id": "r_gronkowski", "passing_receptions": 1 },
+        { "id": "r_gronkowski", "receiving_yards": 5 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "14:23",
+      "down": 2,
+      "ball_on": { "team": "NE", "yard_line": 25 },
+      "stats": [
+        { "id": "tbrady", "passing_yards": 8 },
+        { "id": "tbrady", "passing_attempts": 1 },
+        { "id": "j_edelman", "passing_receptions": 1 },
+        { "id": "j_edelman", "receiving_yards": 8 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "13:57",
+      "ball_on": { "team": "NE", "yard_line": 33 },
+      "down": 1,
+      "stats": [
+        { "id": "j_white", "rushing_attempts": 1 },
+        { "id": "j_white", "rushing_yards": 2 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "13:20",
+      "ball_on": { "team": "NE", "yard_line": 35 },
+      "down": 2,
+      "stats": [
+        { "id": "t_brady", "passing_attempts": 1 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "13:12",
+      "ball_on": { "team": "NE", "yard_line": 35 },
+      "down": 4,
+      "stats": [
+        { "id": "r_allen", "punts": 1 },
+        { "id": "r_allen", "punt_yards": 47 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "13:02",
+      "ball_on": { "team": "DEN", "yard_line": 17 },
+      "down": 1,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "12:58",
+      "ball_on": { "team": "DEN", "yard_line": 17 },
+      "down": 2,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "12:54",
+      "ball_on": { "team": "DEN", "yard_line": 17 },
+      "down": 3,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 },
+        { "id": "p_manning", "passing_yards": 11 },
+        { "id": "e_sanders", "passing_receptions": 1 },
+        { "id": "e_sanders", "receiving_yards": 11 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "12:16",
+      "ball_on": { "team": "DEN", "yard_line": 28 },
+      "down": 1,
+      "stats": [
+        { "id": "p_hillman", "rushing_attempts": 1 },
+        { "id": "p_hillman", "rushing_yards": -1 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "11:35",
+      "ball_on": { "team": "DEN", "yard_line": 27 },
+      "down": 2,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 },
+        { "id": "p_manning", "passing_yards": 13 },
+        { "id": "r_norwood", "passing_receptions": 1 },
+        { "id": "r_norwood", "receiving_yards": 13 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "11:03",
+      "ball_on": { "team": "DEN", "yard_line": 40 },
+      "down": 1,
+      "stats": [
+        { "id": "c_anderson", "rushing_attempts": 1 },
+        { "id": "c_anderson", "rushing_yards": 2 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "10:20",
+      "ball_on": { "team": "DEN", "yard_line": 42 },
+      "down": 1,
+      "stats": [
+        { "id": "c_anderson", "rushing_attempts": 1 },
+        { "id": "c_anderson", "rushing_yards": 2 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "9:47",
+      "ball_on": { "team": "DEN", "yard_line": 42 },
+      "down": 1,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 },
+        { "id": "l_ryan", "penalty_yards": 14 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "9:43",
+      "ball_on": { "team": "NE", "yard_line": 42 },
+      "down": 1,
+      "stats": [
+        { "id": "r_hillman", "rushing_attempts": 1 },
+        { "id": "r_hillman", "rushing_yards": 7 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "9:03",
+      "ball_on": { "team": "NE", "yard_line": 35 },
+      "down": 2,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 },
+        { "id": "p_manning", "passing_yards": 15 },
+        { "id": "a_caldwell", "passing_receptions": 1 },
+        { "id": "a_caldwell", "passing_yards": 15 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "8:19",
+      "ball_on": { "team": "NE", "yard_line": 20 },
+      "down": 1,
+      "stats": [
+        { "id": "r_hillman", "rushing_attempts": 1 },
+        { "id": "r_hillman", "rushing_yards": -1 }
+      ]
+    },
+    {
+      "quarter": 1,
+      "time": "8:19",
+      "ball_on": { "team": "NE", "yard_line": 21 },
+      "down": 1,
+      "stats": [
+        { "id": "p_manning", "passing_attempts": 1 },
+        { "id": "p_manning", "passing_yards": 21 },
+        { "id": "o_daniels", "passing_receptions": 1 },
+        { "id": "o_daniels", "passing_yards": 21 }
+      ]
+    }
+  ]
+}
