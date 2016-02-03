@@ -1,0 +1,27 @@
+{
+   "name": "Pulse Football Data",
+   "version": "1.0.0",
+   "meterVersionRequired": "4.2.0-611",
+   "unsupportedPlatforms": [],
+   "tags" : "footbal",
+   "description": "Skeleton plugin for installing Dashboards for ",
+   "command": "python",
+   "metrics": [
+     "FB_BALL_ON",
+     "FB_DOWN",
+     "FB_PASSING_YARDS",
+     "FB_PASSING_COMPLETIONS",
+     "FB_PASSING_ATTEMPTS",
+     "FB_RECEIVING_YARDS",
+     "FB_RECEIVING_COMPLETIONS",
+     "FB_RUSHING_YARDS",
+     "FB_RUSHING_ATTEMPTS"
+     "FB_PENALTY_YARDS"
+    ],
+   "dashboards": [
+      {
+      }
+    ],
+   "paramSchema": [
+   ]
+}
